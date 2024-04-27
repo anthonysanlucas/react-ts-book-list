@@ -2,7 +2,7 @@
 
 Este proyecto corresponde a una prueba técnica, consiste en una aplicación web que permite listar libros y agregar nuevos libros a una lista de lectura.
 
-Enlace a la aplicación: [App de Lista de Libros]()
+Enlace a la aplicación: [App de Lista de Libros](https://react-ts-book-list.netlify.app/)
 
 ## Tech Stack
 
